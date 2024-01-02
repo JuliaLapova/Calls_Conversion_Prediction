@@ -1,2 +1,4 @@
 *.logs
 myenv/*
+myenv/Lib/site-packages/tensorflow/python/_pywrap_tensorflow_internal.lib
+myenv/Lib/site-packages/tensorflow/python/_pywrap_tensorflow_internal.pyd
